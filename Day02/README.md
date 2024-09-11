@@ -20,7 +20,9 @@ copy UUID Somewhere
 
 mkdir /dockerdata 
 
-nano /etc/fstab 
+vi /etc/fstab 
+
+mmount -a
 
 Paste Like below
 

@@ -22,7 +22,7 @@ mkdir /dockerdata
 
 vi /etc/fstab 
 
-mmount -a
+mount -a
 
 Paste Like below
 
